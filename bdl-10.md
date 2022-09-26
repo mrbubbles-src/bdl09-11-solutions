@@ -14,7 +14,7 @@ Write your answers below the questions
 
 
 * Install a program called `cowsay` from the terminal. Which command did you use?
-> sudo apt cowsay
+> sudo apt install cowsay
 
 
 * What is the sudo command and what does it allow you to do?
