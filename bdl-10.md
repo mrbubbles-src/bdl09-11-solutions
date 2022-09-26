@@ -6,6 +6,7 @@ Write your answers below the questions
 
 * Update your package list from the terminal. Which command did you use?
 > sudo apt update 
+> sudo apt upgrade
 
 
 * Remove all unnecessary files from the terminal. Which command did you use?
