@@ -30,7 +30,9 @@ Arcu non sodales neque sodales. Turpis nunc eget lorem dolor. Rhoncus dolor puru
 * Kuchen (speziell Käsekuchen)
 
 > It does not do to dwell on dreams and forget to live.
+
   -Albus Dumbledore
 
 > Happiness can be found even in the darkest of times, when one only remembers to turn on the light.
+
   -Albus Dumbledore
