@@ -12,7 +12,7 @@
 
 
 <!-- ITALICS: -->
-### **Kursiver Text**
+### *Kursiver Text*
 <!-- mit (*text here*) wird der text kursiv. Alternativ mit (_text here_)  -->
 
 *Kursiver Text bsp 1*
